@@ -1,4 +1,4 @@
-![exbisoft — Software. Built to last. Together.](assets/exbisoft-github-banner.png)
+![exbisoft — Software. Built to last. Together.](exbisoft-github-banner.png)
 
 # exbisoft
 
