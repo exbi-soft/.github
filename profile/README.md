@@ -4,7 +4,7 @@
 
 **Custom software development for mid-sized businesses that can't afford to get it wrong.**
 
-We build full-lifecycle software for mid-sized companies in precision machinery, construction, intralogistics, and medical technology — primarily across the DACH region. Our delivery centre in Pakistan gives us the depth and capacity to take on complex, long-running engagements without cutting corners.
+We build full-lifecycle software for mid-sized companies in precision machinery, construction, intralogistics, and medical technology — primarily across the DACH region. Our delivery centre in asia gives us the depth and capacity to take on complex, long-running engagements without cutting corners.
 
 No off-the-shelf compromises. No vanishing after go-live.
 
